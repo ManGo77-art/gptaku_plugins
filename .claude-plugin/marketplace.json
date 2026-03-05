@@ -64,10 +64,10 @@
     },
     {
       "name": "nopal",
-      "description": "Google Workspace orchestration — orchestrate 8 services (Gmail, Calendar, Drive, Sheets, Docs, Slides, Chat, Tasks) with natural language via gws CLI. No Opal needed.",
+      "description": "Google Workspace orchestration — orchestrate 9 services (Gmail, Calendar, Drive, Sheets, Docs, Slides, Chat, Tasks, Meet) with natural language via gws CLI. No Opal needed.",
       "source": "./plugins/nopal",
       "category": "productivity",
-      "tags": ["google-workspace", "orchestration", "gws-cli", "gmail", "calendar", "drive", "automation"]
+      "tags": ["google-workspace", "orchestration", "gws-cli", "gmail", "calendar", "drive", "meet", "automation"]
     }
   ]
 }
